@@ -1,5 +1,6 @@
 # H4X0R-News App
-# Build with SwiftUI
+ Builded with SwiftUI.
+ 
 
 
 
